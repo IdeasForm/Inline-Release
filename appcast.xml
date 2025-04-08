@@ -6,20 +6,20 @@
         <description>Latest updates for Inline</description>
         <item>
             <title>Version 1.0</title>
-            <sparkle:version>46</sparkle:version>
+            <sparkle:version>49</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <enclosure
                 url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0/Inline.dmg"
-                sparkle:version="46"
+                sparkle:version="49"
                 sparkle:shortVersionString="1.0"
                 type="application/octet-stream"
-                sparkle:edSignature="BZ+306sKxJYilmcpUquteU0ZMLgTehiyVhWmhABN4ixhx4h+Y5dREnPgHyrWVrKn08TESZ1kurxTOnH+BwBBCw=="
-                length="3985875"
+                sparkle:edSignature="x9Vl3RHgo6iLWcsz83mNjv1lhpO/6ypJyuVJeCiMS0Gc7Ip5O4Bhx9PMTvklu9Ak0Ynr8iMtZF0CedjcNbbtDA=="
+                length="3995089"
             />
             <description><![CDATA[
                 <h2>Changes in version 1.0:</h2>
                 <ul>
-                    <li>- Update dark mode</li>
+                    <li> - Fix check update issues. </li>
                 </ul>
             ]]></description>
         </item>
