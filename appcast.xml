@@ -5,22 +5,22 @@
         <link>https://github.com/IdeasForm/Inline-Release/releases</link>
         <description>Latest updates for Inline</description>
         <item>
-            <title>Version 1.0.1</title>
-            <sparkle:version>54</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>Version 1.0.2</title>
+            <sparkle:version>58</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.1/Inline.dmg"
-                sparkle:version="54"
-                sparkle:shortVersionString="1.0.1"
+                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.2/Inline.dmg"
+                sparkle:version="58"
+                sparkle:shortVersionString="1.0.2"
                 type="application/octet-stream"
-                sparkle:edSignature="C+rfp8UQCVJERn4Z8PulW24i0lDuy7K7KY9X3z5vCRw+M+kyxtZ0kkrmG2PE5jAMEV/q+IS/MRQKVj94QYMBBw=="
-                length="4147544"
+                sparkle:edSignature="v1Z+0xk6gskFIunJqqUVNIE09dTBkuQcK9UzwTUB4Bg5JbluU0Z5abuql/xoc4Ed4hI8iTzQx2pc0QuYSqqtCw=="
+                length="4167848"
             />
             <description><![CDATA[
-                <h2>Changes in version 1.0.1:</h2>
+                <h2>Changes in version 1.0.2:</h2>
                 <ul>
-                    <li> - Fix some request failed to OpenAI </li>
-                    <li> - Optimize dark mode appearance </li>
+                    <li> - Feature: Close app after copy. </li>
+                    <li> - Feature: Create new instruction from list. </li>
                 </ul>
             ]]></description>
         </item>
