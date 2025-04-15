@@ -5,22 +5,22 @@
         <link>https://github.com/IdeasForm/Inline-Release/releases</link>
         <description>Latest updates for Inline</description>
         <item>
-            <title>Version 1.0.2</title>
-            <sparkle:version>58</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>Version 1.0.3</title>
+            <sparkle:version>62</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.2/Inline.dmg"
-                sparkle:version="58"
-                sparkle:shortVersionString="1.0.2"
+                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.3/Inline.dmg"
+                sparkle:version="62"
+                sparkle:shortVersionString="1.0.3"
                 type="application/octet-stream"
-                sparkle:edSignature="v1Z+0xk6gskFIunJqqUVNIE09dTBkuQcK9UzwTUB4Bg5JbluU0Z5abuql/xoc4Ed4hI8iTzQx2pc0QuYSqqtCw=="
-                length="4167848"
+                sparkle:edSignature="K1QI6sf8BCewGczL572kkcnGDEW2HlZI2mCm8wCYN393kiL2nSSOsp7lZi4mPaZvkq1GAXS05S2EU268U9vrBg=="
+                length="4208444"
             />
             <description><![CDATA[
-                <h2>Changes in version 1.0.2:</h2>
+                <h2>Changes in version 1.0.3:</h2>
                 <ul>
-                    <li> - Feature: Close app after copy. </li>
-                    <li> - Feature: Create new instruction from list. </li>
+                    <li> - Add support for Open Router API </li>
+                    <li> - Support for folding raw content </li>
                 </ul>
             ]]></description>
         </item>
