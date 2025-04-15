@@ -5,22 +5,21 @@
         <link>https://github.com/IdeasForm/Inline-Release/releases</link>
         <description>Latest updates for Inline</description>
         <item>
-            <title>Version 1.0.3</title>
-            <sparkle:version>62</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>Version 1.0.4</title>
+            <sparkle:version>64</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.3/Inline.dmg"
-                sparkle:version="62"
-                sparkle:shortVersionString="1.0.3"
+                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.4/Inline.dmg"
+                sparkle:version="64"
+                sparkle:shortVersionString="1.0.4"
                 type="application/octet-stream"
-                sparkle:edSignature="K1QI6sf8BCewGczL572kkcnGDEW2HlZI2mCm8wCYN393kiL2nSSOsp7lZi4mPaZvkq1GAXS05S2EU268U9vrBg=="
-                length="4208444"
+                sparkle:edSignature="aVa3Mo5G0zl12LXEsxkK7pxQ0iNd307LKwxifU5Vxn9bSr385n5fjN+4nXgE/AUhN7cBhFbISg+JR8Vr/Q1XCg=="
+                length="4212699"
             />
             <description><![CDATA[
-                <h2>Changes in version 1.0.3:</h2>
+                <h2>Changes in version 1.0.4:</h2>
                 <ul>
-                    <li> - Add support for Open Router API </li>
-                    <li> - Support for folding raw content </li>
+                    <li>New Feature: Removed the text selection limit. You can now call the Inline from anywhere.</li>
                 </ul>
             ]]></description>
         </item>
