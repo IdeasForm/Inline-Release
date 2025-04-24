@@ -5,21 +5,21 @@
         <link>https://github.com/IdeasForm/Inline-Release/releases</link>
         <description>Latest updates for Inline</description>
         <item>
-            <title>Version 1.0.4</title>
-            <sparkle:version>64</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <title>Version 1.0.5</title>
+            <sparkle:version>66</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.4/Inline.dmg"
-                sparkle:version="64"
-                sparkle:shortVersionString="1.0.4"
+                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.5/Inline.dmg"
+                sparkle:version="66"
+                sparkle:shortVersionString="1.0.5"
                 type="application/octet-stream"
-                sparkle:edSignature="aVa3Mo5G0zl12LXEsxkK7pxQ0iNd307LKwxifU5Vxn9bSr385n5fjN+4nXgE/AUhN7cBhFbISg+JR8Vr/Q1XCg=="
-                length="4212699"
+                sparkle:edSignature="/HsKEmsVH/E8AuW+jgqKTKQ+vx5KbSjZf7FiqmCfyc5JaX1nhCXx+dlQacVfnP3my5WOQSHj0IJRRpF2lSwrBA=="
+                length="4218680"
             />
             <description><![CDATA[
-                <h2>Changes in version 1.0.4:</h2>
+                <h2>Changes in version 1.0.5:</h2>
                 <ul>
-                    <li>New Feature: Removed the text selection limit. You can now call the Inline from anywhere.</li>
+                    <li> - Optimize the message structured</li>
                 </ul>
             ]]></description>
         </item>
