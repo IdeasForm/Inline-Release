@@ -5,21 +5,21 @@
         <link>https://github.com/IdeasForm/Inline-Release/releases</link>
         <description>Latest updates for Inline</description>
         <item>
-            <title>Version 1.0.5</title>
-            <sparkle:version>66</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <title>Version 1.0.6</title>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.5/Inline.dmg"
-                sparkle:version="66"
-                sparkle:shortVersionString="1.0.5"
+                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.6/Inline.dmg"
+                sparkle:version="68"
+                sparkle:shortVersionString="1.0.6"
                 type="application/octet-stream"
-                sparkle:edSignature="/HsKEmsVH/E8AuW+jgqKTKQ+vx5KbSjZf7FiqmCfyc5JaX1nhCXx+dlQacVfnP3my5WOQSHj0IJRRpF2lSwrBA=="
-                length="4218680"
+                sparkle:edSignature="aYm3NshXwEDdKST3f40EH+O5bLGeXGE1/HKHbHUFN+M30prpR66gb7ZAFpMCVa2MN2ieci1ujlchLcXcPg77Bg=="
+                length="4222260"
             />
             <description><![CDATA[
-                <h2>Changes in version 1.0.5:</h2>
+                <h2>Changes in version 1.0.6:</h2>
                 <ul>
-                    <li> - Optimize the message structured</li>
+                    <li> - Update the menubar icon. </li>
                 </ul>
             ]]></description>
         </item>
