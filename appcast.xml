@@ -5,21 +5,21 @@
         <link>https://github.com/IdeasForm/Inline-Release/releases</link>
         <description>Latest updates for Inline</description>
         <item>
-            <title>Version 1.0.6</title>
-            <sparkle:version>68</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>Version 1.0.7</title>
+            <sparkle:version>73</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.6/Inline.dmg"
-                sparkle:version="68"
-                sparkle:shortVersionString="1.0.6"
+                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.7/Inline.dmg"
+                sparkle:version="73"
+                sparkle:shortVersionString="1.0.7"
                 type="application/octet-stream"
-                sparkle:edSignature="aYm3NshXwEDdKST3f40EH+O5bLGeXGE1/HKHbHUFN+M30prpR66gb7ZAFpMCVa2MN2ieci1ujlchLcXcPg77Bg=="
-                length="4222260"
+                sparkle:edSignature="aGYjbTYzT36kWOTliaL7DhSkJYc8oVyBzjyhRTRJrmGkUTvFq/JvsJ3IE/G6WfwNfuEWHjWtvoCfnfDhMihGBA=="
+                length="4213216"
             />
             <description><![CDATA[
-                <h2>Changes in version 1.0.6:</h2>
+                <h2>Changes in version 1.0.7:</h2>
                 <ul>
-                    <li> - Update the menubar icon. </li>
+                    <li> Fix: sometimes could not get selected content on Safari </li>
                 </ul>
             ]]></description>
         </item>
