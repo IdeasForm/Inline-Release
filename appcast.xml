@@ -5,19 +5,19 @@
         <link>https://github.com/IdeasForm/Inline-Release/releases</link>
         <description>Latest updates for Inline</description>
         <item>
-            <title>Version 1.0</title>
-            <sparkle:version>49</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>Version 1.0.9</title>
+            <sparkle:version>96</sparkle:version>
+            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0/Inline.dmg"
-                sparkle:version="49"
-                sparkle:shortVersionString="1.0"
+                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.9/Inline.dmg"
+                sparkle:version="96"
+                sparkle:shortVersionString="1.0.9"
                 type="application/octet-stream"
-                sparkle:edSignature="5pFczhtn7Qy59UYMiUlrjJonRe8QiaIQKpGfl+L8n0IBzQ/S6yqHTRHfosaEdmePdPJQfs9iVz7Uo6p/Y+yjDg=="
-                length="3995070"
+                sparkle:edSignature="cmSawjMwPjq64Ap5opBhe/of2tk17rNozep5PW8UdPD9c1njS/7j5uqqcVUA9FF3TBMKqcPXsEChvxFyLxzgBg=="
+                length="6152633"
             />
             <description><![CDATA[
-                <h2>Changes in version 1.0:</h2>
+                <h2>Changes in version 1.0.9:</h2>
                 <ul>
                     <li> Prepare for multiple turns chat </li>
                     <li> Large UI mode </li>
