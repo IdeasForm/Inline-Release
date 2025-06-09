@@ -5,22 +5,23 @@
         <link>https://github.com/IdeasForm/Inline-Release/releases</link>
         <description>Latest updates for Inline</description>
         <item>
-            <title>Version 1.0.8</title>
-            <sparkle:version>80</sparkle:version>
-            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
+            <title>Version 1.0</title>
+            <sparkle:version>49</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.8/Inline.dmg"
-                sparkle:version="80"
-                sparkle:shortVersionString="1.0.8"
+                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0/Inline.dmg"
+                sparkle:version="49"
+                sparkle:shortVersionString="1.0"
                 type="application/octet-stream"
-                sparkle:edSignature="g1UZfGXTYGBXXEInXcpnRSxOnE5t/1PaBeLrGSSO+OLgO949JRPx6Ml/McTIZKAXG+Ohhiirill3VxLks371DA=="
-                length="5817372"
+                sparkle:edSignature="5pFczhtn7Qy59UYMiUlrjJonRe8QiaIQKpGfl+L8n0IBzQ/S6yqHTRHfosaEdmePdPJQfs9iVz7Uo6p/Y+yjDg=="
+                length="3995070"
             />
             <description><![CDATA[
-                <h2>Changes in version 1.0.8:</h2>
+                <h2>Changes in version 1.0:</h2>
                 <ul>
-                    <li>Support replacing the text with the response</li>
-                    <li>New shortcut to switch between Instruction and Freeform mode</li>
+                    <li> Prepare for multiple turns chat </li>
+                    <li> Large UI mode </li>
+                    <li> Direct entry from menubar item </li>
                 </ul>
             ]]></description>
         </item>
