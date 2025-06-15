@@ -5,23 +5,21 @@
         <link>https://github.com/IdeasForm/Inline-Release/releases</link>
         <description>Latest updates for Inline</description>
         <item>
-            <title>Version 1.0.9</title>
-            <sparkle:version>96</sparkle:version>
-            <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
+            <title>Version 1.0.10</title>
+            <sparkle:version>111</sparkle:version>
+            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.9/Inline.dmg"
-                sparkle:version="96"
-                sparkle:shortVersionString="1.0.9"
+                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.10/Inline.dmg"
+                sparkle:version="111"
+                sparkle:shortVersionString="1.0.10"
                 type="application/octet-stream"
-                sparkle:edSignature="cmSawjMwPjq64Ap5opBhe/of2tk17rNozep5PW8UdPD9c1njS/7j5uqqcVUA9FF3TBMKqcPXsEChvxFyLxzgBg=="
-                length="6152633"
+                sparkle:edSignature="lxQSyWMYLghqPRIhTzfA6cjfF0OmxaBeK0825I64bTo88dbwHX7deIVKJRAP+ARpmDkNo9iF6He4K5c/kkEQCw=="
+                length="5875951"
             />
             <description><![CDATA[
-                <h2>Changes in version 1.0.9:</h2>
+                <h2>Changes in version 1.0.10:</h2>
                 <ul>
-                    <li> Prepare for multiple turns chat </li>
-                    <li> Large UI mode </li>
-                    <li> Direct entry from menubar item </li>
+                    <li> Bug fix. </li>
                 </ul>
             ]]></description>
         </item>
