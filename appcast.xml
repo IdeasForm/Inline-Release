@@ -5,21 +5,21 @@
         <link>https://github.com/IdeasForm/Inline-Release/releases</link>
         <description>Latest updates for Inline</description>
         <item>
-            <title>Version 1.0.10</title>
-            <sparkle:version>111</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <title>Version 1.0.11</title>
+            <sparkle:version>126</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
             <enclosure
-                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.10/Inline.dmg"
-                sparkle:version="111"
-                sparkle:shortVersionString="1.0.10"
+                url="https://github.com/IdeasForm/Inline-Release/releases/download/1.0.11/Inline.dmg"
+                sparkle:version="126"
+                sparkle:shortVersionString="1.0.11"
                 type="application/octet-stream"
-                sparkle:edSignature="lxQSyWMYLghqPRIhTzfA6cjfF0OmxaBeK0825I64bTo88dbwHX7deIVKJRAP+ARpmDkNo9iF6He4K5c/kkEQCw=="
-                length="5875951"
+                sparkle:edSignature="fVVCqg9a5yZDk6b6X1DqK8HIcvddI3V9XBSyVNF0cXJzk/xAenU4XUIrGYQWWiP0+D9esbIKmsI5h/ACBJJDBQ=="
+                length="5915440"
             />
             <description><![CDATA[
-                <h2>Changes in version 1.0.10:</h2>
+                <h2>Changes in version 1.0.11:</h2>
                 <ul>
-                    <li> Bug fix. </li>
+                    <li> Supports multi-turn conversations </li>
                 </ul>
             ]]></description>
         </item>
